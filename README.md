@@ -16,7 +16,7 @@ General conditions regarding NaNabot are under this topic.
 5. The client is responsible for any violation caused by them.
 6. We have the rights to update terms of service anytime with a notice in the support server.
    
-- <h3>Terms of Use (Global Chat)</h3>h3>
+- <h3>Terms of Use (Global Chat)</h3>
 - NaNabot Team, reserves the rights to prohibit any user or any server from using global chat feature if they fail to comply with our rules. Rules will be pinned in global chat channel once chat is activated.
 
 1. Servers must use an appropiate server name.
