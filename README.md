@@ -7,7 +7,7 @@ General conditions regarding NaNabot are under this topic.
 
 1. Our terms and conditions apply to each and every user of NaNabot.
 2. By adding NaNa in your server, you agree to these terms of service and the future terms which we may add after a notice.
-- <h3>Terms of Use</h3>h3>
+- <h3>Terms of Use</h3>
 
 1. The client must not resell the premium codes.
 2. Intentional command spam or attempts to crash the bot should not be made.
