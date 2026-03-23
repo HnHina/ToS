@@ -7,7 +7,7 @@ General conditions regarding NaNabot are under this topic.
 
 1. Our terms and conditions apply to each and every user of NaNabot.
 2. By adding NaNa in your server, you agree to these terms of service and the future terms which we may add after a notice.
-- Terms of Use
+- <h3>Terms of Use</h3>h3>
 
 1. The client must not resell the premium codes.
 2. Intentional command spam or attempts to crash the bot should not be made.
@@ -15,7 +15,8 @@ General conditions regarding NaNabot are under this topic.
 4. NaNabot Team reserves the rights to prohibit any server or user from using NaNa.
 5. The client is responsible for any violation caused by them.
 6. We have the rights to update terms of service anytime with a notice in the support server.
-- Terms of Use (Global Chat)
+   
+- <h3>Terms of Use (Global Chat)</h3>h3>
 - NaNabot Team, reserves the rights to prohibit any user or any server from using global chat feature if they fail to comply with our rules. Rules will be pinned in global chat channel once chat is activated.
 
 1. Servers must use an appropiate server name.
