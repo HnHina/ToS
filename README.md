@@ -5,8 +5,8 @@ Terms of service for the NaNabot, this guides our clients on how they can use At
 - </h3>Conditions</h3>
 General conditions regarding NaNabot are under this topic.
 
-1. Our terms and conditions apply to each and every user of Athix Bot.
-2. By adding Athix in your server, you agree to these terms of service and the future terms which we may add after a notice.
+1. Our terms and conditions apply to each and every user of NaNabot.
+2. By adding NaNa in your server, you agree to these terms of service and the future terms which we may add after a notice.
 - Terms of Use
 
 1. The client must not resell the premium codes.
