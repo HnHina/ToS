@@ -2,7 +2,7 @@
 Terms of Service
 Terms of service for the NaNabot, this guides our clients on how they can use Athix bot.
 
-- </h3>Conditions</h3>
+- <h3>Conditions</h3>
 General conditions regarding NaNabot are under this topic.
 
 1. Our terms and conditions apply to each and every user of NaNabot.
